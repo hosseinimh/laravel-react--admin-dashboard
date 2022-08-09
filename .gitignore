@@ -1,0 +1,12 @@
+/project/node_modules
+/project/storage
+/project/vendor
+/project/.env.backup
+/project/.phpunit.result.cache
+/project/docker-compose.override.yml
+/project/Homestead.json
+/project/Homestead.yaml
+/project/npm-debug.log
+/project/yarn-error.log
+/project/.idea
+/project/.vscode

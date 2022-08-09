@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'user_not_found' => 'Email or Password is incorrect.',
+    'id_required' => 'Please enter User no.',
+    'id_numeric' => 'User was not found.',
+    'id_gt' => 'User no should be greater than zero.',
+    'email_required' => 'Please enter Email.',
+    'email_email' => 'Email format is incorrect.',
+    'email_unique' => 'Email is already registered.',
+    'email_max' => 'Max length of Email field is 50 characters.',
+    'password_required' => 'Please enter Password.',
+    'password_numeric' => 'Password should only contain numbers.',
+    'password_digits' => 'Password length should be 4-digit.',
+    'new_password_required' => 'Please enter Password.',
+    'new_password_numeric' => 'Password should only contain numbers.',
+    'new_password_digits' => 'Password length should be 4-digit.',
+    'new_password_confirmed' => 'Password does not match with its confirmation.',
+    'password_error' => 'Password is incorrect.',
+    'name_required' => 'Please enter Name.',
+    'name_min' => 'Min length of Name field is 3 characters.',
+    'name_max' => 'Max length of Name field is 50 characters.',
+    'family_required' => 'Please enter Family.',
+    'family_min' => 'Min length of Family field is 3 characters.',
+    'family_max' => 'Max length of Family field is 50 characters.',
+    'not_authorized' => 'You don\'t have access to this section.',
+];
